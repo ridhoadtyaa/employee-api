@@ -1,4 +1,4 @@
-## Restfull API with ExpressJS and MongoDB
+## RESTful API with ExpressJS and MongoDB
 
 - Check Health
 - CRUD Employee
